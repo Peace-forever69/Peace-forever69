@@ -1,4 +1,4 @@
-<img width="800" height="1024" alt="image" src="https://github.com/user-attachments/assets/5b5b4c71-cc72-402c-a773-1269b0a5f25b" />
+<img width="1816" height="2308" alt="asciinator_16Jul_002" src="https://github.com/user-attachments/assets/9f26e0b4-9369-4857-a174-8f20c09a8e1c" />
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6a50fdf08b578e964b31486e?variant=dark&roadmaps=python%2Cpython-data-analysis" alt="roadmap.sh"/></a>
 
